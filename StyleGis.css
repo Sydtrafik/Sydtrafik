@@ -26,3 +26,7 @@
 i.material-icons.gc2-session-unlock{
      display:none;
 }
+
+.nav-item.about-btn {
+    display: none;
+}
