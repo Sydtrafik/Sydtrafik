@@ -30,3 +30,14 @@ i.material-icons.gc2-session-unlock{
 .nav-item.about-btn {
     display: none;
 }
+
+.nav-item.reset-btn {
+    display: none;
+}
+.leaflet-control-boxzoom.leaflet-bar.leaflet-control-custom.leaflet-control {
+    display: none;
+}
+
+.leaflet-bar-part.leaflet-bar-part-single.js-measurements-control {
+    display: none;
+}
